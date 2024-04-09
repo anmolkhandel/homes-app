@@ -18,3 +18,8 @@
 - Run the application 
 
   `ng serve`
+
+![image](https://github.com/anmolkhandel/homes-app/assets/166121811/bec254b2-a76e-48d6-b0ce-80ada6ab5d37)
+
+![image](https://github.com/anmolkhandel/homes-app/assets/166121811/dc59d1e6-f0bf-4317-9388-11093a13c6d6)
+
