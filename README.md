@@ -23,3 +23,6 @@
 
 ![image](https://github.com/anmolkhandel/homes-app/assets/166121811/dc59d1e6-f0bf-4317-9388-11093a13c6d6)
 
+![image](https://github.com/anmolkhandel/homes-app/assets/166121811/b554c20e-0146-45ea-a878-3594b60492e2)
+
+
